@@ -1,0 +1,3 @@
+[submodule "GitSubmodule_sub"]
+	path = GitSubmodule_sub
+	url = https://github.com/dolway/GitSubmodule_sub.git
